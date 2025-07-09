@@ -6,7 +6,7 @@ Backed by innovation, driven by community — ISM is here to redefine how we con
 Be early. Be bold. Be part of the future with ISM.",
   "image": "https://violet-used-coral-148.mypinata.cloud/ipfs/bafkreihvsw6z4w3pb4urqdrklomrbm5g6mqmugrfkyi3tthmp7uli3ts24",
   "external_url": "https://iShowMeet.com",
-  "seller_fee_basis_points": 500, // 5% royalty
+  "seller_fee_basis_points": 200, 
   "attributes": [
     {
       "trait_type": "Meme Level",
