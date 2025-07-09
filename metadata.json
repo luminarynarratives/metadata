@@ -5,5 +5,10 @@
 Backed by innovation, driven by community — ISM is here to redefine how we connect and grow in the digital world.
 
 👉 Be early. Be bold. Be part of the future with ISM.",
-  "image": "https://violet-used-coral-148.mypinata.cloud/ipfs/bafkreihvsw6z4w3pb4urqdrklomrbm5g6mqmugrfkyi3tthmp7uli3ts24"
+  "image": "https://violet-used-coral-148.mypinata.cloud/ipfs/bafkreihvsw6z4w3pb4urqdrklomrbm5g6mqmugrfkyi3tthmp7uli3ts24",
+  "decimals": 9,
+  "extensions": {
+    "website": "https://ishowmeet.io",
+    "twitter": "https://twitter.com/ishowmeet"
+  }
 }
